@@ -1,5 +1,5 @@
 public class me : 🧂🧂{
-public 🍔🍔 ☕☕;
+public 🍔🍔 🌭🌭;
 void Start(){
 GetComponent<🍟🍟>().isGood = true;
 }
