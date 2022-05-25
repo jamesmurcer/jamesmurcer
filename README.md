@@ -1,6 +1,7 @@
-public class me : 🧂🧂{
-public 🍔🍔 🌭🌭;
-void Start(){
-GetComponent<🍟🍟>().isGood = true;
+public class me : 🐱💻{
+public 🐱‍💻  🐱‍💻;
+private 🥛  🥛;
+void Like(){
+GetComponent<🥛>().isGood = true;
 }
 }
