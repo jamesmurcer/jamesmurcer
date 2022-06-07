@@ -1,5 +1,5 @@
-public class me : 🐱💻{
-public 🐱‍💻  🐱‍💻;
+public class me : 🛌💻{
+public🛌💻  💻🧞;
 private 🥛  🥛;
 void Like(){
 GetComponent<🥛>().isGood = true;
